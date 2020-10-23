@@ -42,7 +42,7 @@
         <div class="col-md-12">
           <div class="banner-text">
             <h2>Bienvenido a <span>Ernesto</span> Digital</h2>
-            <p>Mundo en ventas y marketing digital</p>
+            <p>Universo en ventas y marketing digital</p>
             <a href="#" class="banner-button">Ver más</a> </div>
         </div>
       </div>
