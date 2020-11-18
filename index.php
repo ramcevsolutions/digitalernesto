@@ -200,7 +200,7 @@
         <div class="contact-form">
           <form  action="/ethereal/contacts/create.php" method="POST">
             <div class="col-md-6">
-              <input type="text" name="name" class="form-control" placeholder="Nombre" >
+              <input type="text" name="name_contact" class="form-control" placeholder="Nombre" >
             </div>
             <div class="col-md-6">
               <input type="text" class="form-control" placeholder="Número de teléfono" name="phone">
