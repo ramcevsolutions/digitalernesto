@@ -198,7 +198,7 @@
       </div>
       <div class="col-md-7 col-sm-offset-0 col-sm-6 col-xs-offset-1 col-xs-10">
         <div class="contact-form">
-          <form  action="/ethereal/contacts/create.php" method="POST">
+          <form  action="https://ernestodigital.herokuapp.com/contacts/create.php" method="POST">
             <div class="col-md-6">
               <input type="text" name="name_contact" class="form-control" placeholder="Nombre" required>
             </div>
