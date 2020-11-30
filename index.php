@@ -200,13 +200,13 @@
         <div class="contact-form">
           <form  action="/ethereal/contacts/create.php" method="POST">
             <div class="col-md-6">
-              <input type="text" name="name_contact" class="form-control" placeholder="Nombre" >
+              <input type="text" name="name_contact" class="form-control" placeholder="Nombre" required>
             </div>
             <div class="col-md-6">
-              <input type="text" class="form-control" placeholder="Número de teléfono" name="phone">
+              <input type="text" class="form-control" placeholder="Número de teléfono" name="phone" required>
             </div>
             <div class="col-md-12">
-              <textarea class="form-control" placeholder="Mensaje" rows="6" name="message"></textarea>
+              <textarea class="form-control" placeholder="Mensaje" rows="6" name="message" required></textarea>
             </div>
             <div class="col-md-12 text-center">
               <button type="submit" class="contact-button">Enviar mensaje</button>
