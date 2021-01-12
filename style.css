@@ -5,6 +5,7 @@
 	padding: 0px;
 	margin: 0px;
 }
+span
 body {
 	font-family: 'Work Sans', sans-serif;
 }
@@ -25,6 +26,10 @@ a {
 }
 .navbar-toggle {
 	background-color: #fff;
+}
+#img-blanco {
+	height: 100px;
+	width: auto;
 }
 .navbar-toggle .icon-bar {
 	background-color: RGBA(0, 0, 0, 0.48);
@@ -432,3 +437,4 @@ nav > li > a:focus, .nav > li > a:hover, .nav > li > a:focus, .nav > li.active >
 	padding: 50px 0px;
 }
 }
+span

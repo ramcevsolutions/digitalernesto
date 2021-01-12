@@ -22,7 +22,7 @@
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        <a class="navbar-brand" href="#">Ernesto</a> </div>
+        <a class="navbar-brand" href="#"><img src="Ethereal/images/logoernesto.png" id="img-blanco" alt="" style="height: 50px; margin: -15px;"></a> </div>
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav navbar-right">
           <li class="active"><a href="#banner">Inicio</a></li>
@@ -41,8 +41,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="banner-text">
-            <h2>Bienvenido a <span>Ernesto</span> Digital</h2>
-            <p>Universo en ventas y marketing digital</p>
+            <img src="Ethereal/images/logorectangular.png" alt="" style="height: 200px; width: auto;"><br>
             <a href="#" class="banner-button">Ver más</a> </div>
         </div>
       </div>
@@ -56,7 +55,7 @@
         <div class="feature-box media">
           <div class="icon-box text-center pull-left media-object"> <i class="icon-bulb"></i> </div>
           <div class="feature-text media-body">
-            <h4>Título</h4>
+            <h4>Misión</h4>
             <p class="feature-detail">Descripción</p>
           </div>
         </div>
@@ -65,16 +64,16 @@
         <div class="feature-box media pull-left">
           <div class="icon-box text-center pull-left media-object"> <i class="icon-eye"></i> </div>
           <div class="feature-text media-body">
-            <h4>Título</h4>
+            <h4>Visión</h4>
             <p class="feature-detail">Descripción</p>
           </div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="feature-box media pull-left">
-          <div class="icon-box text-center pull-left media-object"> <i class="icon-heart"></i> </div>
+          <div class="icon-box text-center pull-left media-object"> <i class="icon-calendar"></i> </div>
           <div class="feature-text media-body">
-            <h4>Título</h4>
+            <h4>Plan</h4>
             <p class="feature-detail">Descripción</p>
           </div>
         </div>
