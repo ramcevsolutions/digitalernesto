@@ -38,7 +38,7 @@
 <div class="banner" id="banner">
   <div class="bg-overlay">
     <div class="container">
-        <div  style="height: auto; width: 700px;" class="center-block">
+        <div class="center-block">
               <img src="Ethereal/images/logorectangular.png" alt="" style="height: auto; max-width:100%" class="center-block"><br>
               <a href="#" class="banner-button">Ver más</a>
         </div>
