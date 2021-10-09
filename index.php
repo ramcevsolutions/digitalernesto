@@ -55,7 +55,7 @@
             <div class="icon-box text-center pull-left media-object"> <i class="icon-bulb"></i> </div>
             <div class="feature-text media-body">
               <h4>Misión</h4>
-              <p class="feature-detail">Descripción</p>
+              <p class="feature-detail">Ser lideres y esclusivos a nivel mundial, y en cada servicio que brindamos</p>
             </div>
           </div>
         </div>
@@ -64,7 +64,7 @@
             <div class="icon-box text-center pull-left media-object"> <i class="icon-eye"></i> </div>
             <div class="feature-text media-body">
               <h4>Visión</h4>
-              <p class="feature-detail">Descripción</p>
+              <p class="feature-detail">Aportar un amplio valor agregado a cada marca comercial o personal que atendemos. Resaltando nuestro profesionalismo, innovación, pasión y entrega en cada proyecto concretado</p>
             </div>
           </div>
         </div>
@@ -73,7 +73,7 @@
             <div class="icon-box text-center pull-left media-object"> <i class="icon-calendar"></i> </div>
             <div class="feature-text media-body">
               <h4>Plan</h4>
-              <p class="feature-detail">Descripción</p>
+              <p class="feature-detail">Trabajar de la mano con las nuevas tecnólogías del mercado. Llevar a cabo cada uno de los proyecto con recurso humano calificado </p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@
   <div id="work" class="portfolio">
     <div class="container">
       <div class="row">
-        <div class="col-lg-10 col-lg-offset-1 text-center text">
+        <div class="col-lg-12 col-lg-offset-1 text-center text">
           <h3>Servicios</h3>
           <div class="row">
             <div class="col-md-4 col-sm-4">
@@ -126,7 +126,7 @@
                 <div class="card" style="width: 18rem;">
                   <div class="card-body">
                     <h4 class="card-title">Aplicaciones web</h4>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text">Una gran cantidad de procesos manuales son susceptibles de ser optimizados o incluso automatizados por completo utilizando tecnología web</p>
                     <a href="#" class="view-more">Más</a>
                   </div>
                 </div>
@@ -137,7 +137,7 @@
                 <div class="card" style="width: 18rem;">
                   <div class="card-body">
                     <h4 class="card-title">Aplicaciones móviles</h4>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text">Hacemos realidad la transformación empresarial móvil mediante la creación de aplicaciones móviles de calidad que aportan valor a su empresa</p>
                     <a href="#" class="view-more">Más</a>
                   </div>
                 </div>
@@ -148,7 +148,7 @@
                 <div class="card" style="width: 18rem;">
                   <div class="card-body">
                     <h4 class="card-title">Base de datos</h4>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text">Las bases de datos han sido para las organizaciones una herramienta de uso indispensable, pues esta permite almacenar un conjunto de datos pertenecientes a un mismo contexto, para así ofrecer un alto rango de soluciones al problema de almacenar datos</p>
                     <a href="#" class="view-more">Más</a>
                   </div>
                 </div>
