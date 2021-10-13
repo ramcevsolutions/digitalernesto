@@ -93,18 +93,18 @@
                 <div class="card" style="width: 18rem;">
                   <div class="card-body">
                     <h4 class="card-title">Consultoría</h4>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text">Escuchamos, asesoramos, diagnosticamos, y presentamos un plan totalmente personalizado de acuerdo a tus necesidades, con el fin de resolver y potenciar un crecimiento al maximo nivel</p>
                     <a href="#" class="view-more">Más</a>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="col-md-4 col-sm-4">
+            <div class="col-md-4 col-sm-5">
               <div class="portfolio-item">
                 <div class="card" style="width: 18rem;">
                   <div class="card-body">
                     <h4 class="card-title">Coach en ventas</h4>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text">Maximisamos el desempeño en las ventas; dando capacitaciones con el fin de brindar herramientas y conocimientos actualizados</p>
                     <a href="#" class="view-more">Más</a>
                   </div>
                 </div>
@@ -115,7 +115,7 @@
                 <div class="card" style="width: 18rem;">
                   <div class="card-body">
                     <h4 class="card-title">Coach en branding</h4>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text">Desarrollamos y potenciamos tu marca, dándole una identidad e imagen bien definida, que concuerde con los valores bajo un concepto claro para los clientes externos e internos.</p>
                     <a href="#" class="view-more">Más</a>
                   </div>
                 </div>
@@ -280,19 +280,14 @@
   <footer>
     <div class="container">
       <div class="row">
-        <div class="col-md-4"> <span class="copyright">Copyright &copy; Ernesto 2020</span> </div>
-        <div class="col-md-4">
+        <div class="col-md-6"> <span class="copyright">Copyright &copy; Ernesto 2020</span> </div>
+        <div class="col-md-2">
           <ul class="list-inline social-buttons">
             <li><a href="#"><i class="fa fa-whatsapp"></i></a> </li>
             <li><a href="https://facebook.com/ramcevsolutions"><i class="fa fa-facebook"></i></a> </li>
             <li><a href="#"><i class="fa fa-instagram"></i></a> </li>
           </ul>
-        </div>
-        <div class="col-md-4">
-          <ul class="list-inline quicklinks">
-            <li>Diseñado por <a href="http://ramcevsolutions.com">Ramcev Solutions</a> </li>
-          </ul>
-        </div>
+        </div>     
       </div>
     </div>
   </footer>
